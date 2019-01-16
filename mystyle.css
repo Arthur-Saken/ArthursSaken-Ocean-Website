@@ -1,0 +1,45 @@
+body {
+background-image:url(Beachbackground.jpg);
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+div {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  border: 10px solid red;
+}
+Background-repeat:no-repeat;
+Background-size:1920px 1080px;
+}
+H1 {
+Text-align:center;
+Color: yellow;
+}
+
+div {
+Text-align:center;
+Background-color:#0000ff;
+Font-size:30px;
+text-size:40px;
+Border:10px solid white;
+Color:#FFFF00;
+}
+Table, td,, th
+{
+Border:10px solid green;
+Padding:15px;
+text-size:40px;
+}
+Th
+{
+Background-color:powderblue;
+Color:white;
+text-size:40px;
+}
+A:hover,a:active
+{
+Background-color:#7A991A
+
+ 
+  </div>
+}
